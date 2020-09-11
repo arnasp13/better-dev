@@ -5,26 +5,31 @@
 ---
 
 - how does internet work
-- what is http
-- browsers and how they work, how is javascript affected by browsers
+    - https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8
+    - https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+- [what is http](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+- browsers and how they work
+- how is javascript affected by browsers
 - dns and how it works
 - what is domain
 - what is hosting
+
+https://www.tutorialspoint.com/web_developers_guide
 
 **html**
 
 ---
 
 - [https://www.internetingishard.com](https://www.internetingishard.com/)
-- forms and validations
-- accessibility
-- SEO basics
+- [forms and validations](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
+- [accessibility](https://www.w3.org/WAI/standards-guidelines/)
+- [SEO basics](https://www.bluefountainmedia.com/blog/seo-standards-coders-developers)
 
 **css**
 
 ---
 
-- basics
+- basics (internetingishard)
     - making layouts
         - floats
         - positioning
@@ -32,11 +37,13 @@
         - display
         - css grid
         - flex box
-- animations
+- [animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 - render context (z-index)
-- sass/less
-- rem vs px and why
-- selector priorities
+    - https://www.oreilly.com/library/view/developing-web-components/9781491905685/ch04.html
+    - http://digitalrune.github.io/DigitalRune-Documentation/html/ba13b3e9-cf11-4a8d-959d-338de0a4aa81.htm
+- [sass/less](https://css-tricks.com/sass-vs-less/)
+- [rem vs px and why](https://medium.com/code-better/css-units-for-font-size-px-em-rem-79f7e592bb97)
+- [specifity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 
 **javascript**
 
@@ -52,7 +59,7 @@
 
 ---
 
-- git
+- [git](https://git-scm.com/docs)
 
 **web security knowledge**
 
