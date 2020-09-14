@@ -17,6 +17,7 @@
 - [Calculus 1A: Differentiation by MIT (Beginner) — 13 Weeks (6–10 hours/week)](https://www.edx.org/course/calculus-1a-differentiation)
 - [Calculus 1B: Integration by MIT (Intermediate) — 13 Weeks (5–10 hours/week)](https://www.edx.org/course/calculus-1b-integration)
 - [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!)
+- [MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
 
 ## online practise
 
@@ -33,3 +34,4 @@
 - https://en.wikibooks.org/wiki/Subject:Mathematics
 - https://ocw.mit.edu/courses/audio-video-courses/#mathematics
 - https://tutorial.math.lamar.edu
+- https://medium.com/better-programming/a-comprehensive-walkthrough-to-becoming-a-self-taught-programmer-and-computer-scientist-part-i-288541b19940
